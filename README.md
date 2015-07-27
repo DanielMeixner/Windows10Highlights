@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Windows 10 Highlights für Entwickler ##
 Was muss man wissen, wenn man für Windows 10 entwickelt? Dieses Dokument ist eine Sammlung der wichtigsten Informationen und Knotenpunkt rund um die Windows 10 Entwicklung.
 
