@@ -1,7 +1,7 @@
 ## Windows 10 Highlights für Entwickler ##
 Was muss man wissen, wenn man für Windows 10 entwickelt? Dieses Dokument ist eine Sammlung der wichtigsten Informationen und Knotenpunkt rund um die Windows 10 Entwicklung.
 
-### Meine Apps laufen auf allen Geräten - wenn man es will ###
+### Meine Apps laufen auf allen Geräten - wenn ich es will ###
 Mit Windows 10 gibt es ein vereinheitlichtes App-Modell für alle Windows 10 Devices. Das schließt neben
 herkömmlichen Desktop PCs auch Tablets, Smartphones, Raspberry PI 2, Surface Hub, die HoloLens und zukünftig auch die XBox One ein. 
 Für App Entwickler bedeutet das, dass man - wenn man möchte - seine App für all diese Plattformen anbieten kann. 
