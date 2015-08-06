@@ -17,5 +17,5 @@ Was man diesbezüglich noch wissen muss, erfährt man hier:
 * Artikel zu Windows 10 Development & Convergence (englisch) <https://msdn.microsoft.com/en-us/magazine/dn973012.aspx>
 * Einstiegspunkt zum Thema auf der MSDN Library <https://msdn.microsoft.com/library/windows/apps/dn894631.aspx#ui_and_universal_input>
 
-
+### Adaptive Universal Windows Platform Apps entwickeln###
 
