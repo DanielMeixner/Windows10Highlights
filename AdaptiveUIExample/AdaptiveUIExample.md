@@ -8,7 +8,7 @@ Die Beispiel App "AdaptiveUIExample" zeigt, wie man eine adaptive Benutzeroberfl
 
 Weitere Informationen dazu können Sie hier finden:
 
-* Blogpost zu Adaptive User Interface in Windows 10 (deutsch): <http://blogs.msdn.com/b/dmx/archive/2015/07/24/windows-universal-apps-und-extension-sdks.aspx>
+* Blogpost zu Adaptive User Interface in Windows 10 (deutsch): <http://blogs.msdn.com/b/the_language_of_technology/archive/2015/08/06/adaptive-user-interface-in-windows-10.aspx>
 * Reaktionsfähiges Design für Universal Windows Platform (UWP)-Apps – Grundlagen: <https://msdn.microsoft.com/de-de/library/windows/apps/dn958435.aspx> 
 * Windows 10 - An Introduction to Building Windows Apps for Windows 10 Devices (englisch): <https://msdn.microsoft.com/en-us/magazine/dn973012.aspx>
 * Video über Adaptive UI (englisch) <https://channel9.msdn.com/Series/A-Developers-Guide-to-Windows-10/07>
