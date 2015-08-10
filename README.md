@@ -19,3 +19,4 @@ Was man diesbezüglich noch wissen muss, erfährt man hier:
 
 ### Adaptive Universal Windows Platform Apps entwickeln###
 
+[Adaptive UI mit Adaptive Trigger und Relative Panel entwickeln](https://github.com/DanielMeixner/Windows10Highlights/blob/master/AdaptiveUIExample/AdaptiveUIExample.md)
